@@ -39,7 +39,7 @@ tgl_dibuat: 2026-02-23 17:39:55
 * Jenis Pokin: PokinSKPD
 * Kategori Sasaran: Intermediate Outcome
 * Dasar Penetapan: 
-** Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.1] **
+**Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.1]**
 1. **Angka Partisipasi Sekolah (APS) 16-18** | Satuan: Persen | Sifat: Positif | Kategori: Progresif
 2. **Angka Partisipasi Sekolah (APS) 16-18 Wilayah Kab Lebak** | Satuan: Persen | Sifat: Positif | Kategori: Kumulatif
 3. **Angka Partisipasi Sekolah (APS) 16-18 Wilayah Kab Pandeglang** | Satuan: Persen | Sifat: Positif | Kategori: Kumulatif
@@ -135,7 +135,7 @@ tgl_dibuat: 2026-02-23 17:39:55
 * Jenis Pokin: PokinSKPD
 * Kategori Sasaran: Aktivitas
 * Dasar Penetapan: 
-** Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.1.1.1.1] **
+**Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.1.1.1.1]**
 1. **1 SMAN 9 KOTA SERANG** | Satuan: UNIT | Sifat: Positif | Kategori: Kumulatif
 
 ####### Critical Success Factors (CSF) Pemda [SS-PEMDA-4.1.1.1.1.1.1]
@@ -8025,10 +8025,10 @@ tgl_dibuat: 2026-02-23 17:39:55
 * Jenis Pokin: PokinSKPD
 * Kategori Sasaran: Aktivitas
 * Dasar Penetapan: 
-** Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.23.2.2.3] **
+**Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.23.2.2.3]**
 1. **Jumlah konten digital untuk konten media pembelajaran** | Satuan: konten digital | Sifat: Positif | Kategori: Kumulatif
 
-####### Critical Success Factors (CSF) Pemda [SS-PEMDA-4.1.1.23.2.2.3]
+#######Critical Success Factors (CSF) Pemda [SS-PEMDA-4.1.1.23.2.2.3]
 
 ###### SASARAN  SS-OPD-4.1.1.23.2.2.4 penerapan bestpractice media pembelajaran sekolah
 > Merupakan Sasaran Turunan Level 4
