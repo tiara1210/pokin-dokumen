@@ -159,11 +159,11 @@ tgl_dibuat: 2026-02-23 17:39:55
 * Kode Sasaran: 4.1.1.1.1.10
 * Sasaran Induk:  SS-OPD-4.1.1.1.1 Terpenuhinya layanan pendidikan SMA secara gratis dan sesuai standar
 * Sasaran: Ruang Unit Kesehatan Sekolah yang Terehabilitasi Sedang/Berat di SMA
-* Pemicu CSF: [CSF-4.1.1.1.1.1-] 
+* Pemicu CSF: [CSF-4.1.1.1.1.1-]
 * Jenis Pokin: PokinSKPD
 * Kategori Sasaran: Output
 * Dasar Penetapan: 
-** Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.1.1.10] **
+**Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.1.1.10]
 1. **Jumlah Ruang Unit Kesehatan Sekolah yang Telah Direhabilitasi Sedang/Berat** | Satuan: Ruang | Sifat: Positif | Kategori: Progresif
 
 ###### Critical Success Factors (CSF) Pemda [SS-PEMDA-4.1.1.1.1.10]
@@ -11090,7 +11090,7 @@ tgl_dibuat: 2026-02-23 17:39:55
 * Jenis Pokin: PokinSKPD
 * Kategori Sasaran: Aktivitas
 * Dasar Penetapan: 
-** Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.24.3.1.1] **
+**Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.24.3.1.1]
 1. **terpenuhinya Kebutuhan Barang Milik Daerah SKPD** | Satuan: Laporan | Sifat: Positif | Kategori: Kumulatif
 
 ####### Critical Success Factors (CSF) Pemda [SS-PEMDA-4.1.1.24.3.1.1]
