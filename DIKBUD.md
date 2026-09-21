@@ -11108,7 +11108,7 @@ tgl_dibuat: 2026-02-23 17:39:55
 1. **Jumlah Dokumen Pengamanan Barang Milik Daerah SKPD** | Satuan: dokumen | Sifat: Positif | Kategori: Kumulatif
 
 ###### Critical Success Factors (CSF) Pemda [SS-PEMDA-4.1.1.24.3.2]
-* **[CSF-4.1.1.24.3.2-1]** Tersedianya data dan kelengkapan aset, legalitas kepemilikan dan anggaran
+* **[CSF-4.1.1.24.3.2-1]** Tersedianya data dan kelengkapan aset, legalitas kepemilikan dan anggaran.
 
 ###### SASARAN  SS-OPD-4.1.1.24.3.2.1 Jumlah Dokumen Pengamanan Barang Milik Daerah SKPD
 > Merupakan Sasaran Turunan Level 4
