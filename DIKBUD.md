@@ -11104,7 +11104,7 @@ tgl_dibuat: 2026-02-23 17:39:55
 * Jenis Pokin: PokinSKPD
 * Kategori Sasaran: Output
 * Dasar Penetapan: 
-** Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.24.3.2] **
+**Indikator Kinerja Sasaran [SS-PEMDA-4.1.1.24.3.2]
 1. **Jumlah Dokumen Pengamanan Barang Milik Daerah SKPD** | Satuan: dokumen | Sifat: Positif | Kategori: Kumulatif
 
 ###### Critical Success Factors (CSF) Pemda [SS-PEMDA-4.1.1.24.3.2]
